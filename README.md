@@ -3,18 +3,19 @@
 🚀 Project Overview: This repository contains a comprehensive sales dashboard for Blinkit, India's Last Minute App. Built with Power BI, the dashboard visualizes key performance indicators (KPIs) related to sales data, including total sales, average sales, number of items sold, and average ratings across various outlet types and locations.
 
 📊 Dashboard Highlights:
+<br>
 Total Sales: $1.2M
 Average Sales per Item: $141
 Total Number of Items Sold: 85,823
 Average Rating: 3.9 stars
+<br>
 🔑 Key Visualizations:
 Fat Content Analysis:
-
 Displays sales distribution between low-fat and regular items.
 Regular items: $776.3K
 Low-fat items: $425.4K
+<br>
 Item Type Performance:
-
 Highest-grossing categories: "Fruits and Vegetables" and "Snack Foods," each generating $0.18M.
 Other significant categories include "Household," "Frozen Foods," and "Dairy."
 Outlet Establishment Timeline:
