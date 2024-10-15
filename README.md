@@ -28,5 +28,6 @@ Outlet Location and Type:
 Analyzes sales across Tier 1, Tier 2, and Tier 3 cities.
 Tier 3 cities lead with $0.31M in sales.
 Breakdown of sales, average sales, number of items, and average ratings by outlet type, showing Medium-sized outlets contributing $507.9K to total sales.
+<br>
 💡 Insights:
 This dashboard provides valuable insights for optimizing Blinkit’s sales strategy and improving customer satisfaction. It’s a powerful tool for data-driven decision-making!
